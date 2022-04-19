@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @foglar
-- 👀 I’m interested in programming, so I am here.
-- 🌱 I’m currently learning Python, HTML, CSS, Java script and others
+<a href="https://github.com/foglar">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=foglar&show_icons=true&theme=merko" />
+</a>
 
-<!---
-foglar/foglar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://github.com/foglar">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foglar&show_icons=true&theme=merko">
+</a>
