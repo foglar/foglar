@@ -2,7 +2,10 @@
 
 ## I am a beginning programmer and website developer 💻
 - I am intrested in hacking, ethical of course 🕶️
+- I love to design websites 🎨
+- I am interested in cosmonautics 🧑‍🚀 and space 🛰️
 
+## My stats 📊
 <a href="https://github.com/foglar">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=foglar&show_icons=true&theme=dark" />
 </a>
