@@ -1,7 +1,7 @@
 ### 👋 Hello, I am [@foglar](https://github.com/foglar/) - visit my website to discover more about me [🕸️foglar.github.io](https://foglar.github.io)
 
 ## I am a beginning programmer and website developer 💻
-- I am interested in hacking, ethical of course 🕶️
+- I am interested in hacking, ethically of course 🕶️
 - I love to design websites 🎨
 - I am interested in cosmonautics 🧑‍🚀 and space 🛰️
 
