@@ -13,3 +13,5 @@
 <a href="https://github.com/foglar">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foglar&show_icons=true&theme=dark">
 </a>
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
