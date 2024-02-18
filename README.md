@@ -6,3 +6,5 @@
 <a href="https://github.com/foglar">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=foglar&show_icons=true&theme=dark" />
 </a>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
