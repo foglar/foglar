@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            260 Commits
+                            262 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.13513750027346" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="283.13513750027346" y="0" width="57.86204029840951" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="340.99717779868297" y="0" width="49.74871469513663" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="390.74589249381955" y="0" width="28.576779190093855" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="419.32267168391337" y="0" width="18.06830164737798" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="437.3909733312914" y="0" width="12.285720536437026" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="449.6766938677284" y="0" width="7.294143385328928" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.9708372530573" y="0" width="3.0291627469426152" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.1264657495887" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="283.1264657495887" y="0" width="57.86026812279044" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="340.98673387237915" y="0" width="49.76127970877524" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="390.7480135811544" y="0" width="28.575903951835905" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="419.3239175329903" y="0" width="18.06774825860198" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.3916657915923" y="0" width="12.285344254261611" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="449.67701004585393" y="0" width="7.293919983198572" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="456.9709300290525" y="0" width="3.02906997094753" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -285,7 +285,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 85 commits)</small>
+                    <small class="h-details">(computed from last 86 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1583,7 +1583,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 1 Apr 2024, 17:39:27
+                            On 3 Apr 2024, 16:16:45
                         </div>
                     </section>
                 </div>
@@ -1593,17 +1593,21 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            fix
+                            chezmoiexternal.toml test
+
+- fixed typoo in run_onchage_after_setup
+- dot_gitconfig.tmpl created
+- readme update
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">5f605f24</span>
-                            <span class="code">run_onchange_before_setup.sh</span>
+                            <span class="code">32eb53c3</span>
+                            <span class="code">dot_gitconfig.tmpl</span>
                             <span class="code">
-                                <span class="snippet additions">++1</span>
-                                <span class="snippet deletions">--1</span>
+                                <span class="snippet additions">++2</span>
+                                <span class="snippet deletions">--2</span>
                             </span>
                         </div>
                     </section>
@@ -1611,14 +1615,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -3,7 +3,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">#set -x<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">config_file="$HOME/.local/bin/setup_scripts/config.json"<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">output_config_file="$HOME/.local/bin/setup_scripts/"<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">output_config_file="$HOME/.local/bin/setup_scripts/output_config.json"<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">app_list_dir="$HOME/.local/share/packages/"<br /></span><span class="token prefix unchanged">·</span><span class="token line">scripts_path="$HOME/.local/bin/setup_scripts/"<br /></span><span class="token prefix unchanged">·</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,6 +1,6 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[user]<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">email = "kohout.fi.2023@skola.ssps.cz"<br /></span><span class="token prefix deleted">-</span><span class="token line">name = foglar<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">email = {{ .email | quote }}<br /></span><span class="token prefix inserted">+</span><span class="token line">name = {{ .chezmoi.username | quote }}<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">[credential "https://github.com"]<br /></span><span class="token prefix unchanged">·</span><span class="token line">helper = <br /></span><span class="token prefix unchanged">·</span><span class="token line">helper = !/usr/bin/gh auth git-credential</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Apr 2024, 16:10:38 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Apr 2024, 17:13:20 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
