@@ -1354,7 +1354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RTS2/rts2</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Contains core part of the RTS2 - RTS2 libraries, and drivers for basic devices.</div>
@@ -1570,7 +1570,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jun 2024, 13:10:29 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 14:22:13 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
