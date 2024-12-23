@@ -1342,7 +1342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/awesome-nix</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]</div>
@@ -1563,7 +1563,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2024, 22:12:43 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2024, 23:12:48 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
