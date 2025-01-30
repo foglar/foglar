@@ -1359,7 +1359,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-direnv</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]</div>
@@ -1512,7 +1512,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MatthewCroughan/nixinate</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Another NixOS Deployment Tool - Nixinate your systems 🕶️</div>
@@ -1580,7 +1580,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jan 2025, 22:12:44 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Jan 2025, 23:12:40 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
