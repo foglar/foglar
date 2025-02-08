@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nix-community/nix-direnv</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]</div>
@@ -1553,7 +1553,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2025, 22:12:00 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Feb 2025, 23:11:49 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
