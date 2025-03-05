@@ -1407,7 +1407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JaKooLit/NixOS-Hyprland</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">To Automate Installation of Hyprland on NixOS using flakes. NOTE: Dot configs are not written in Nix.</div>
@@ -1454,7 +1454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Sly-Harvey/NixOS</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NixOS + Hyprland + dev-shells = productivity powerhouse</div>
@@ -1575,7 +1575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Mar 2025, 23:13:53 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Mar 2025, 00:13:59 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
