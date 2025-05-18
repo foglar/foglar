@@ -1336,7 +1336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wimpysworld/nothing-but-nix</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈</div>
@@ -1383,7 +1383,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SUPERCILEX/fuc</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, performance focused unix commands</div>
@@ -1489,7 +1489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ai-robots-txt/ai.robots.txt</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of AI agents and robots to block.</div>
@@ -1557,7 +1557,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 May 2025, 20:19:33 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 May 2025, 21:11:46 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
