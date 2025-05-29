@@ -1357,7 +1357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lunarnovaa/lunix</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My NixOS config for use on my systems.</div>
@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nmattia/niv</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easy dependency management for Nix projects</div>
@@ -1578,7 +1578,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2025, 06:21:01 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2025, 07:16:41 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
