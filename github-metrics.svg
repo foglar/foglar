@@ -1354,7 +1354,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adrg/xdg</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go implementation of the XDG Base Directory Specification and XDG user directories</div>
@@ -1407,7 +1407,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kyokomi/emoji</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattn/go-runewidth</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">wcwidth for golang</div>
@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>integrii/flaggy</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies.</div>
@@ -1584,7 +1584,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Aug 2025, 00:15:51 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Aug 2025, 01:14:50 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
