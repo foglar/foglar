@@ -1327,7 +1327,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hexagonal-sun/moss-kernel</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust Linux-compatible kernel</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuanw/nix-home</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">My Nix dotfiles on MacOS/NixOS</div>
@@ -1427,7 +1427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phylum-dev/birdcage</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform embeddable sandboxing</div>
@@ -1548,7 +1548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2025, 11:16:16 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 12:12:47 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
