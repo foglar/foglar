@@ -1339,7 +1339,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rp-rs/rp-hal</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust Embedded-HAL for the rp series microcontrollers</div>
@@ -1392,7 +1392,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rp-rs/rp2040-project-template</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A basic rp2040-hal project with blinky and rtt logging example code. With this you can quickly get started on a new rp2040 project</div>
@@ -1560,7 +1560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2025, 23:14:48 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Dec 2025, 00:15:55 (timezone Europe/Prague) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
